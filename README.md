@@ -1,4 +1,4 @@
 # pyspark_learn
-- Learning pyspark using Databricks community edition
-- After burning many hours trying to install pyspark on windows, I finally gave up and started using community edition of Databricks
-- Databricks is managed spark where you dont need to do  the redundant code and focus on solving the problem at hand.
+- Learning pyspark using Google Colab notebooks
+- After burning many hours trying to install pyspark on windows, I finally gave up and started using community edition of Databricks and Google Colab
+- I figured out eventually how to install the pyspark but Google Colab is way too good with all the GenAI capabilities, hence continuing with this.
